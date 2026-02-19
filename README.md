@@ -18,5 +18,5 @@ g++ -o output filename.cpp
 
 ## Author
 
-- **User**: ajmal-uk
+- **User**: ajmaluk
 - **Email**: ajmaluk.me@gmail.com
