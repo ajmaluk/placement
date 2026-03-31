@@ -5,8 +5,8 @@ void shownum(int n){
     if(n==0){
         return;
     }
-    shownum(n-1);
     cout<<n<<endl;
+    shownum(n-1);
 }
 
 int main(){
